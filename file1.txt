@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 console.log("Hello, world!");
 
+=======
+write any thing at this file ya ahmed 
+using command
+>>>>>>> b35d1c4a410b34107908544d87fe3cec41a38112
